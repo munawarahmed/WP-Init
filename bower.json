@@ -1,0 +1,27 @@
+{
+  "name": "init",
+  "version": "0",
+  "authors": [
+    "Munawar Ahmed <hi@munwr.com>"
+  ],
+  "description": "initial for any project",
+  "main": "style.css",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "GPL",
+  "homepage": "http://munwr.com",
+  "private": true,
+  "dependencies": {
+    "jQuery": "~2.1.1",
+    "_s": "git@github.com:Automattic/_s.git"
+  },
+  "devDependencies": {
+    "jQuery": "~2.1.1",
+    "_s": "git@github.com:Automattic/_s.git",
+    "WordPress": "git@github.com:WordPress/WordPress.git#~3.9.2",
+    "bootstrap": "~3.2.0",
+    "compass-kube": "git@github.com:yckart/compass-kube.git",
+    "normalize.css": "~3.0.1"
+  }
+}
